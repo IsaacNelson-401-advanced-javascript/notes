@@ -1,0 +1,26 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacNelson-401-advanced-javascript/notes.git"
+  },
+  "author": "Isaac Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacNelson-401-advanced-javascript/notes/issues"
+  },
+  "homepage": "https://github.com/IsaacNelson-401-advanced-javascript/notes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "minimist": "^1.2.0"
+  }
+}
